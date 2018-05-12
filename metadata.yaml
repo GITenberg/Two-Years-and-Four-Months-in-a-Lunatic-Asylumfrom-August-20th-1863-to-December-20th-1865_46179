@@ -1,0 +1,31 @@
+_repo: Two-Years-and-Four-Months-in-a-Lunatic-Asylumfrom-August-20th-1863-to-December-20th-1865_46179
+_version: 0.1.0
+alternative_title: "2 Years and 4 Months in a Lunatic Asylum\r\nfrom August 20th,\
+  \ 1863 to December 20th, 1865"
+covers:
+- cover_type: archival
+  image_path: 46179-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chase, Hiram
+    gutenberg_agent_id: '43646'
+    url: http://www.gutenberg.org/2009/agents/43646
+description: ''
+gutenberg_issued: '2014-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46179'
+  lccn: '14007190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chase, Hiram'
+- !lcsh 'Mentally ill, Writings of the, American'
+- !lcsh 'Mentally ill -- Care -- New York (State) -- Utica'
+- !lcc 'RC'
+title: 'Two Years and Four Months in a Lunatic Asylum
+
+  from August 20th, 1863 to December 20th, 1865'
+url: http://www.gutenberg.org/ebooks/46179
