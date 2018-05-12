@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43646'
     url: http://www.gutenberg.org/2009/agents/43646
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46179#Two-Years-and-Four-Months-in-a-Lunatic-Asylumfrom-August-20th-1863-to-December-20th-1865
 gutenberg_issued: '2014-07-02'
 gutenberg_type: Text
 identifiers:
